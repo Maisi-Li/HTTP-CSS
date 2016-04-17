@@ -1,0 +1,95 @@
+* {
+		font-family: 'Montserrat', sans-serif;
+		margin: 0;
+    padding: 0;
+}
+
+
+/** HEADER **/
+#header-nav {
+	/*background-color: #ff4d4d;*/
+	border-radius: 0;
+	border: 0;
+}
+
+#brand-name {
+	color: #db7070;
+	font-size: 2em;
+}
+
+#page-title {
+	text-align: center;
+}
+
+button .navbar-header button.navbar-toggle .navbar-header .icon-bar {
+  border: 2px;
+}
+
+.collapse-item {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#nav-list hr {
+	width: 50%;
+	margin: auto;
+	/*text-align: right;*/
+	
+}
+/**CONTENT**/
+section {
+	/*border: 2px solid black;*/
+	background-color: #bfbfbf;
+
+	margin-bottom: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+
+/*	  padding-bottom: 500em;
+  margin-bottom: -500em;*/
+}
+
+
+
+/*.container header {
+	height: 20px;
+}*/
+.recipeTitle { 
+	/*float: right;*/
+	text-align: center;
+	/*border-width: 0px 0px 2px 2px;*/
+	/*border-style: solid;*/
+
+	/*width: 35%;*/
+	/*position: relative;*/
+	padding: 5px;
+	margin-top: 0;
+	margin-bottom: 5px;
+	font-size: 1.5em;
+
+}
+
+.back-to-top {
+	text-align: right;
+	padding: 5px;
+}
+
+.r1 {
+	background-color: #ff9999;
+}
+
+.r2 {
+	background-color: #99ff99;
+}
+
+.r3 {
+	background-color: #ffff99;
+}
+
+
+p{
+	clear: both;
+	padding: 10px;
+	overflow: auto;
+}
